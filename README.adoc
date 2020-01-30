@@ -1,3 +1,5 @@
+http://springtest-env.xkmxunexbj.us-east-2.elasticbeanstalk.com/
+
 :spring_version: current
 :spring_data_rest: current
 :spring_data_jpa: current
